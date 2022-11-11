@@ -1,0 +1,45 @@
+body {
+    height: 100%;
+    width: fit-content;
+    margin-top: 5%;
+    margin-left: 17%;
+    border: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+    
+    
+}
+.main-container{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.input-container{
+    margin-top: auto;
+    margin-bottom:auto;
+    color: black;
+}
+.header{
+    border-left: 20px solid rgb(47, 9, 186);
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: aqua;
+}
+table, th,td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-radius: 5%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+h2{
+    /* border-left: 20px solid rgb(47, 9, 186); */
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: rgb(178, 239, 239);
+
+}
